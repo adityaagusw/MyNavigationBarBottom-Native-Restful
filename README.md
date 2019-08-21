@@ -1,6 +1,6 @@
 # UI-NavigationBar-Bottom-RESTAPI
 
-Rest Api PHP ini punya project Multipart Retrofit 
+Rest Api PHP ini punya project NavigationBar Buttom Retrofit
 
 # Aplikasi Android
-- Link : https://github.com/adityaagusw/UI-NavigationBar-Bottom
+- Link : https://github.com/adityaagusw/NavigationBar-Bottom-Retrofit
